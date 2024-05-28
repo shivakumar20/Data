@@ -1,1 +1,1 @@
-Building a Forcasting Model for Pwoer Generation
+Building a Forcasting Model for Power Generation
